@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.6.0",
+    "@babel/runtime": "^7.11.2",
     "fetch-mock": "^6.5.0",
     "mocha-multi": "^1.0.1",
     "node-fetch": "^2.1.2",
